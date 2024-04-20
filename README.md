@@ -11,7 +11,7 @@ With this library, developers can:
 By utilizing this library, developers can speed up their development process, minimize code redundancy, and ensure consistent behavior across browsers.
 
 
-## Official Docs Links:
+## Official Docs:
 - Chrome: https://developer.chrome.com/docs/extensions
 - Firefox: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons
 - Safari: https://developer.apple.com/documentation/safariservices/safari_web_extensions
